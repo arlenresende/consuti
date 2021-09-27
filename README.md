@@ -7,16 +7,8 @@
   <h3 align="center">Consuti</h3>
 
 
-
-
-
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]]()
+## Sobre o Projeto
 
 Projeto desenvolvido realizando um CRUD de uma API em formato JSON, que a partir de um determinado e-mail teriam as funcionalidades:
 
@@ -27,7 +19,7 @@ Projeto desenvolvido realizando um CRUD de uma API em formato JSON, que a partir
 
 
 
-### Built With
+### Construído com
 
 * [React](https://pt-br.reactjs.org/)
 * [ChakraUi](https://chakra-ui.com/)
@@ -43,12 +35,12 @@ Projeto desenvolvido realizando um CRUD de uma API em formato JSON, que a partir
  http://tst.sportibrasil.com.br/Services/CategoriaService.svc/
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Como começar
 
 
-This project was bootstrapped with [Create React App ](https://pt-br.reactjs.org/)
+O pRojeto foi desenvolvido com [Create React App ](https://pt-br.reactjs.org/)
 
-### Prerequisites
+### Pré Requisitos
 
 Este é um exemplo de como usar as bibliotecas do software e como instalá-las.
 * yar
@@ -56,38 +48,30 @@ Este é um exemplo de como usar as bibliotecas do software e como instalá-las.
   yarn
   ```
 
-### Installation
+### Instalação
 
-1. Clone the repo
+1. Clone o repositório
    ```sh
    git clone https://github.com/arlenresende/consuti.git
    ```
-2. Install packages
+2. Instale as bibliotecas
    ```sh
    yarn add
    ```
-3. In the project directory, you can run
+3. No diretório do projeto, digite:
    ```sh
    yarn start
    ```
 
-  Runs the app in the development mode.
-  Open http://localhost:3000  to view it in the browser.
+ Executa o aplicativo no modo de desenvolvimento.
+  Abra http: // localhost: 3000 para visualizá-lo no navegador.
 
-  The page will reload if you make edits.
-  You will also see any lint errors in the console.
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
+  A página será recarregada se você fizer edições.
+  Você também verá quaisquer erros de lint no console.
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Arlen Resende - arlen.resende@take.net
 
